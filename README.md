@@ -15,7 +15,7 @@ I am an Industrial Engineering student and a master candidate in Data Science at
     <a href="https://www.linkedin.com/in/nicolas-crocco/">
         <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80px"/>
     </a>
-  <a href="456596642708324352">
+  <a href="discordapp.com/users/456596642708324352">
         <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80px"/>
     </a>
 </p>
